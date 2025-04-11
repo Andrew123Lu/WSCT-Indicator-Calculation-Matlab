@@ -1,8 +1,8 @@
 % MATLAB 代码框架：WCST 行为数据分析
 
 % 1. 设置文件夹路径
-folderPath = 'C:\Users\lza\Desktop\深圳新青年项目\新青年数据\行为任务\WSCT整合-827';
-outputFile = 'C:\Users\lza\Desktop\WCST_results.txt'; % 结果文件
+folderPath = 'C:\Users\Desktop';
+outputFile = 'C:\Users\Desktop\WCST_results.txt'; % 结果文件
 
 % 2. 获取所有 CSV 文件
 csvFiles = dir(fullfile(folderPath, '*.csv'));
