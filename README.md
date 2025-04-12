@@ -1,6 +1,5 @@
-# WSCT-Analysis-Matlab
-# 威斯康星卡片分类任务分析
-Using Matlab to analyse WSCT data
+# WSCT-Indicator-Calculation-Matlab
+# 威斯康星卡片分类任务-指标计算
 
 指标说明
 1. TC (Total Correct)
